@@ -45,11 +45,25 @@ Free web and mobile calendar based on FullCalendar Library in Ukrainian that let
 _Technologies used in the project:_ JavaScript - 87.9%; HTML - 6.1%; CSS - 5.3%; PHP - 0.7%.
 
 ## `English:`
+
+* [EPAM University Program. Adaptive English test 2020 Assignment](https://www.training.epam.ua/#!/Home?lang=en)
+
+Result: `A2 Level`
+
+_January 2021_
+
 * [Coventry University. English for Academic Study](https://www.coventry.ac.uk/)
+
 _January 2021 | UK_
+
 * [King's College London. Basic English 2: Pre-Intermediate](https://www.kcl.ac.uk/)
+
 _November 2020 | UK_
+
 * [PO "Association of innovative and digital education". English level B1-B1+](https://srs.lingva.ua/)
+
 _August 2020 - October 2020 | Ukraine_
+
 * [PO "Association of innovative and digital education". English level A1-A2](https://srs.lingva.ua/)
+
 _June 2020 - August 2020 | Ukraine_
