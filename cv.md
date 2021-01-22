@@ -79,3 +79,13 @@ _August 2020 - October 2020 | Ukraine_
 [PO "Association of innovative and digital education". English level A1-A2](https://srs.lingva.ua/)
 
 _June 2020 - August 2020 | Ukraine_
+
+## `Web Development Events`
+
+[Educational Programme “IT nation”. IT Nation Hacks-2020](https://itukraine.org.ua/en/start-of-it-nation-an-educational-programme.html)
+
+_October 2020 | Ukraine_
+
+[Educational Programme “IT nation”. Bootcamp for developers](https://itukraine.org.ua/en/start-of-it-nation-an-educational-programme.html)
+
+_September 2020 | Ukraine_
