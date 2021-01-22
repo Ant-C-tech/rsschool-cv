@@ -11,14 +11,12 @@ I'm an enthusiastic and detail-oriented Frontend Developer who seeking an opport
 ## `Tech Skills:`
 * Adobe Photoshop, Adobe XD, Avocode, Figma
 * GIT
-~
 * HTML5
 * CSS3
 * BEM Methodology
 * LESS
 * SCSS
 * Bootstrap
-~
 * JavaScript
 * jQuery
 * OOP
@@ -45,3 +43,13 @@ _Technologies used in the project:_ JavaScript - 66.8%; HTML - 33.2%.
 Application made in collaboration with others developers as a task of "IT Nation Hacks-2020" (keys: "Personal scheduling service").
 Free web and mobile calendar based on FullCalendar Library in Ukrainian that lets you keep track of your own events. It's the ideal tool for managing personal and professional schedules. It is both simple to use and very powerful. "Personal scheduling service's" interface decorated with Material Design Palette's organic colors, but it hides a lot of powerful features.
 _Technologies used in the project:_ JavaScript - 87.9%; HTML - 6.1%; CSS - 5.3%; PHP - 0.7%.
+
+## `English:`
+* [Coventry University. English for Academic Study](https://www.coventry.ac.uk/)
+_January 2021 | UK_
+* [King's College London. Basic English 2: Pre-Intermediate](https://www.kcl.ac.uk/)
+_November 2020 | UK_
+* [PO "Association of innovative and digital education". English level B1-B1+](https://srs.lingva.ua/)
+_August 2020 - October 2020 | Ukraine_
+* [PO "Association of innovative and digital education". English level A1-A2](https://srs.lingva.ua/)
+_June 2020 - August 2020 | Ukraine_
