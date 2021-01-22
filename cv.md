@@ -44,11 +44,17 @@ Application made in collaboration with others developers as a task of "IT Nation
 Free web and mobile calendar based on FullCalendar Library in Ukrainian that lets you keep track of your own events. It's the ideal tool for managing personal and professional schedules. It is both simple to use and very powerful. "Personal scheduling service's" interface decorated with Material Design Palette's organic colors, but it hides a lot of powerful features.
 _Technologies used in the project:_ JavaScript - 87.9%; HTML - 6.1%; CSS - 5.3%; PHP - 0.7%.
 
+## `General Higher Education:`
+
+[STATE HIGHER EDUCATIONAL INSTITUTION DONBASS STATE TEACHERS' TRAINING UNIVERSITY (DSTTU). Physics teacher](http://www.slavdpu.dn.ua/)
+
+_September 2000 - June 2005 | Ukraine_
+
 ## `English:`
 
 [EPAM University Program. Adaptive English test 2020 Assignment](https://www.training.epam.ua/#!/Home?lang=en)
 
-Result: **A2 Level**
+_Result:_ **A2 Level**
 
 _January 2021_
 
